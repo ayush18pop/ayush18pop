@@ -128,7 +128,7 @@
 <!-- Footer Quote - Fixed Width -->
 <h2 align="center">💭 Quote of the Day</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="550" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="550" height = "800" />
 </p>
 
 <!-- Closing -->
