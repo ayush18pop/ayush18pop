@@ -1,6 +1,6 @@
-<!-- Dynamic Header -->
+<!-- Dynamic Header - Fixed Width Issue -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:700&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Hello+World!+I'm+%F0%9F%91%BD+Ayush;Creative+Developer+%7C+Tech+Explorer+%7C+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:700&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&height=100&lines=Hello+World!+I'm+%F0%9F%91%BD+Ayush;Creative+Developer+%7C+Tech+Explorer+%7C+Innovator" alt="Typing SVG" />
 </p>
 
 <!-- Professional Bio Banner -->
