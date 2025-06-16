@@ -47,7 +47,7 @@
       <img align="center" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Books.png" width="25" height="25" />
     </td>
     <td>
-      <b>Currently Learning:</b> Solidity, Web3 ecosystem & React-based beautiful UI/UX
+      <b>Currently Learning:</b>Java, Solidity, Web3 ecosystem & React-based beautiful UI/UX
     </td>
   </tr>
   <tr>
