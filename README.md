@@ -21,4 +21,4 @@ Passionate about **Filmmaking**
 ## 🌐 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-popat-432402250/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushworks18@gmail.com)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x)](https://x.com/ayushp999)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x)](https://x.com/EkAurAyush)
