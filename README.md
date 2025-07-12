@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 About
-Building **LNMDoubts** - Student doubt-solving platform  
+Building **agencyHQ** - One stop solution for freelancers-client management platform 
 Learning **Solidity, Web3 & React**  
 Passionate about **Filmmaking**
 
