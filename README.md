@@ -3,7 +3,9 @@
 </div>
 
 ## 🚀 About
+
 Building **agencyHQ** - One stop solution for freelancers-client management platform 
+<br/>
 Learning **Solidity, Web3 & React**  
 Passionate about **Filmmaking**
 
