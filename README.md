@@ -10,9 +10,10 @@ Learning **Solidity, Web3 in general**
 Passionate about **Filmmaking**
 
 ## 🛠️ Stack
-**Frontend:** React, JavaScript, Tailwind  
+**Frontend:** React, TypeScript, Tailwind  
 **Backend:** Node.js, Express, MongoDB  
 **Blockchain:** Solidity, Web3.js  
+**Frameworks:** Nextjs, Foundry
 
 ## 📊 Stats
 <div align="center">
