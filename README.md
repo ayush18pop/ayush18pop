@@ -5,6 +5,7 @@
 ## 🚀 About
 
 Building **agencyHQ** - One stop solution for freelancers-client management platform 
+(currently private repo)
 <br/>
 Learning **Solidity, Web3 in general**  
 Passionate about **Filmmaking**
