@@ -14,7 +14,6 @@ Exploring **DeFi**, **protocol design**, and **smart contract security**.
 **Frontend:** React, Next.js, TypeScript, Tailwind  
 **Backend:** Node.js, Express, MongoDB, PostgreSQL, Supabase  
 **Blockchain:** Solidity, Foundry, Wagmi, Web3.js  
-**Other:** Docker, Linux, CI/CD, Firebase
 
 ---
 
