@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&color=00D9FF&center=true&width=500&lines=Hi+I'm+Ayush;Full+Stack+Developer;Learning+FullStack+web3" alt="Typing SVG" />
-</div>
+</div> -->
 
 # Ayush
 
@@ -31,12 +31,6 @@ Exploring **DeFi**, **protocol design**, and **smart contract security**.
 - OSS contributions
 
 ---
-
-## 📊 Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush18pop&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush18pop&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
-</div>
 
 ## 🌐 Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-popat-432402250/)
