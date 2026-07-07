@@ -1,46 +1,45 @@
 # Ayush
-**Web3 Engineer • DeFi Developer • Protocol Builder**
 
-Building onchain protocols at the intersection of **DeFi**, **prediction markets**, and **smart contract design**.  
-Member of **[Blok Capital](https://blokcapital.io) Cohort #1**.
+Backend and protocol engineer. I build production infrastructure, research trust systems, and ship onchain protocols.
 
 ---
 
-## 🚀 Currently Building
+## Selected Work
 
-**[Kartfall](https://www.kartfall.fun)** — Multiplayer 2.5D isometric kart battle game with onchain prediction markets  
-Part of the **Yellow Network Acceleration Program** · Waitlist open for mainnet
+**[Prism Hook](https://github.com/ayush18pop/prism-hook)**
+Uniswap v4 hook that splits LP positions into LP-Y (zero impermanent loss, pure fee yield) and LP-D (USDC-collateralized IL absorber) ERC-1155 tokens. Oracle-free IL via the funded-LP formula, automated settlement via Reactive Network RSC, 56 Foundry tests at 90%+ branch coverage. Deployed on Unichain Sepolia.
+*Uniswap Foundation Hook Incubator — Cohort #9*
 
----
+**[InfluenceRank](https://link-to-paper-or-repo)**
+EigenTrust adapted to citation graphs with exponential time-decay and journal-quartile priors. TypeScript ingestion pipeline over OpenAlex API, PostgreSQL/Prisma graph model, iterative convergence solver. Validated on 3,000+ papers and 150,000+ citations.
+*Springer LNNS — Accepted, SmartCom 2026*
 
-## 📌 Featured Work
+**[StrategyForge](https://strategyforge.ayush.works)**
+Multi-agent orchestration platform with a 3-step attested reasoning pipeline (Researcher → Strategist → Critic), failure-context memory, self-evolving workflows, and on-chain attestation registry.
+*ETHGlobal OpenAgents 2026*
 
-- **[Kartfall](https://www.kartfall.fun)** — Onchain prediction markets + multiplayer kart battles · Yellow Network APP-067D
-- **[StockShield.eth](https://stockshield-eth-1ry3.vercel.app/)** — On-chain stock hedging protocol
-- **[Commit Protocol](https://mnee-commit.vercel.app/)** — Accountability protocol built for MNEE · [Devpost](https://devpost.com/software/commit-protocol-built-for-mnee)
-
----
-
-## 🔧 Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, Tailwind  
-**Backend:** Node.js, Express, MongoDB, PostgreSQL, Supabase  
-**Blockchain:** Solidity, Foundry, Wagmi, Web3.js
+**[go-http](https://github.com/ayush18pop/go-http)**
+An HTTP/1.1 server implemented from scratch in Go, directly on top of TCP, with no net/http on the server side. It parses raw request bytes off the wire, and writes responses (status lines, headers, chunked encoding, trailers) by hand, byte for byte, according to the HTTP/1.1 spec.
+*just for fun*
 
 ---
 
-## 📈 Current Focus
+## Stack
 
-- Prediction market design & onchain game mechanics
-- DeFi protocol design & security
-- Smart contract architecture
-- Yellow Network ecosystem
+`TypeScript` · `Go` · `Node.js` · `PostgreSQL` · `Solidity` · `Foundry` · `Next.js` · `Docker` · `Prisma`
 
 ---
 
-## 🌐 Links
+## Recognition
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-popat-432402250/)
+- **Springer LNNS** — InfluenceRank accepted at SmartCom 2026
+- **Uniswap Hook Incubator** — Alum, Cohort #9
+- **Yellow Network Acceleration Program** — Semifinalist, top 15, $25K pool
+- **Monad Blitz** — 1st place, $500
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ayush-popat-432402250)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushworks18@gmail.com)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x)](https://x.com/ayuxhtwt)
-[![Kartfall](https://img.shields.io/badge/-kartfall.fun-E5FF00?style=flat&logo=ethereum&logoColor=black)](https://www.kartfall.fun)
+[![Website](https://img.shields.io/badge/-ayush.works-black?style=flat)](https://ayush.works)
