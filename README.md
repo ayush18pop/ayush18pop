@@ -10,7 +10,7 @@ Backend and protocol engineer. I build production infrastructure, research trust
 Uniswap v4 hook that splits LP positions into LP-Y (zero impermanent loss, pure fee yield) and LP-D (USDC-collateralized IL absorber) ERC-1155 tokens. Oracle-free IL via the funded-LP formula, automated settlement via Reactive Network RSC, 56 Foundry tests at 90%+ branch coverage. Deployed on Unichain Sepolia.
 *Uniswap Foundation Hook Incubator — Cohort #9*
 
-**[InfluenceRank](https://link-to-paper-or-repo)**
+**[InfluenceRank](https://github.com/ayush18pop/influence-rank-protocol)**
 EigenTrust adapted to citation graphs with exponential time-decay and journal-quartile priors. TypeScript ingestion pipeline over OpenAlex API, PostgreSQL/Prisma graph model, iterative convergence solver. Validated on 3,000+ papers and 150,000+ citations.
 *Springer LNNS — Accepted, SmartCom 2026*
 
