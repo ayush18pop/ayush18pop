@@ -3,7 +3,8 @@
 Backend and protocol engineer. I build production infrastructure, research trust systems, and ship onchain protocols.
 
 ---
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+---
 ## Selected Work
 
 **[Prism Hook](https://github.com/ayush18pop/prism-hook)**
